@@ -159,7 +159,6 @@ print("Box-Jenkins ARIMA modelling completed successfully.")
 
 <img width="486" height="282" alt="image" src="https://github.com/user-attachments/assets/64153639-e842-4a30-9f6c-ef017268b20c" />
 
-<img width="631" height="355" alt="image" src="https://github.com/user-attachments/assets/8361f48f-173d-4755-9da2-90f884a9fd76" />
 
 <img width="641" height="287" alt="image" src="https://github.com/user-attachments/assets/a0abe65c-85c7-448e-b378-a224ca06f535" />
 
